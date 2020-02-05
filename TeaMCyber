@@ -1,5 +1,3 @@
-[Buat Script#1]
-[=================]
 clear
 yellow='\033[33;1m'
 sleep 1
